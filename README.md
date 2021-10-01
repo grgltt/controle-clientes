@@ -1,4 +1,6 @@
 # Teste JN2  
+
+API desenvolvida com Laravel + Docker.  
   
 Para rodar o projeto pela primeira vez, execute `docker-compose up -d --build`.  
 
