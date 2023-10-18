@@ -1,4 +1,3 @@
-# Teste JN2  
 
 API desenvolvida com Laravel + Docker.  
   
